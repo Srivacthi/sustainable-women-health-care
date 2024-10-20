@@ -1,5 +1,5 @@
-# sustainable-women-health-care
-Sustainable women's health care
+# sustainable-women-self-care
+Sustainable women's self care
 
 References  
 Flask series: https://www.youtube.com/watch?v=MKzB6Vyw0yQ&list=PLOkVupluCIjuPtTkhO6jmA76uQR994Wvi&index=2  
